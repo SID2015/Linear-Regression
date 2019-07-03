@@ -8,6 +8,30 @@
 # Plotting the Data
 
 
-![alt text] (https://github.com/SID2015/Linear-Regression/blob/master/imgs/Data_plot.png)
+![](/imgs/Data_plot.png)
 
 
+
+# Gradient Descent
+
+![](/imgs/cost_function.png)
+
+
+# Computing the cost J(θ)
+
+
+
+# Gradient descent
+
+
+![](/imgs/Linear_Fit.png)
+
+
+
+Data Plots
+
+
+![](/imgs/Surface_plot.png)
+
+
+![](/imgs/Contour_plot.png)
